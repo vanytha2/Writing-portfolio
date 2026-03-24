@@ -1,0 +1,8 @@
+# Heading 1
+## Heading 2
+### Heading 3
+
+This is **bold text**  
+This is *italic text*  
+This is ~~strikethrough~~
+This is checking merge
