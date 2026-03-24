@@ -5,3 +5,4 @@
 This is **bold text**  
 This is *italic text*  
 This is ~~strikethrough~~
+This is checking merge
